@@ -1,8 +1,3 @@
-Aquí tienes un **ROADMAP.md extremadamente robusto**, con pasos **muy pequeños, simples, detallados y ordenados**, ideal para un proyecto real y para avanzar sin confundirte.
-Lo escribo como archivo independiente para que puedas copiarlo directo a tu repo.
-
----
-
 # 🛠️ ROADMAP — HSL Color Picker (Rust + OpenGL + NeoVim)
 
 Este roadmap divide el proyecto en **etapas pequeñas**, claras y concretas.

@@ -1,7 +1,3 @@
-Aquí tienes una **versión mucho más robusta, completa y profesional del README**, lista para usar en un repositorio real y dejarlo presentable como proyecto open-source o herramienta personal.
-
----
-
 # 🎨 HSL Color Picker — Rust + OpenGL + NeoVim Integration
 
 **Un selector de colores cromático minimalista, rápido y escrito en Rust.**
